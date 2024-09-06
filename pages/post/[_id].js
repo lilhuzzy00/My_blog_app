@@ -45,7 +45,7 @@ const PostComments = () => {
     <div className="container-fluid">
       <div className="row py-5 text-light bg-default-image">
         <div className="col text-center">
-          <h1>MERNCAMP</h1>
+          <h1>FARMING SPIRIT</h1>
         </div>
       </div>
 
