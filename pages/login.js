@@ -5,7 +5,7 @@ import { Modal } from "antd";
 import Link from "next/link";
 import AuthForm from "../components/forms/AuthForm";
 import { useRouter } from "next/router";
-import { UserContext } from "../context";
+import { UserContext } from "../context"
 
 const Login = () => {
   const [email, setEmail] = useState("ryan@gmail.com");
